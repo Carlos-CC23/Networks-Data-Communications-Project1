@@ -5,7 +5,7 @@ def main():
     print("========== TAM Sorting Client ==========\n")
     print("Overview: This client sends a TAM string (letters T, A, M ending with '#') to the server,\n")
     print("and then displays the sorted result received back from the server.\n")
-    print("========================================\n")
+    print("========================================")
     
     HOST = '127.0.0.1'  # server's hostname or IP address
     PORT = 12345        # server's port
