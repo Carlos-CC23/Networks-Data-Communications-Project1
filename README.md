@@ -11,23 +11,23 @@ To run the server and client code in Visual Studio Code, follow these steps:
 
 4. Open the integrated terminal in VS Code by selecting Terminal > New Terminal.
 
-5. First, run the server:
+5. First, run gui_client:
    • In the terminal, type:  
   python3 gui_client.py  
    (On Windows, you might need to type:  
   python gui_client.py)
 
-6. The server will start and wait for a client connection. Leave this terminal running.
+6. The gui_client will open a window with Menu. it'll have 3 buttons you can press. To enter a string, you'll need to follow the next step.
 
 7. Open a second terminal instance in VS Code:
    • You can click the plus icon (+) in the terminal panel to open another terminal.
    
-8. In the new terminal, run the client:
+8. In the new terminal, run the server:
    • Type:  python3 server.py  
    (Or on Windows:  
   python server.py)
 
-9. Follow the on-screen prompts in the client terminal to send a TAM string to the server.
+9. Now you enter the string on the window opened. Read instructions before typing and hitting enter.
     
 **Note: Every time the string is sorted, the server connection is gone. In order to get a new string to get sorted again, you'll need to run the server again.**
 
