@@ -1,5 +1,5 @@
-# Networks-Data-Communications-Project-s
-Each projects for networks and data communications for the Spring 2025 semester.
+# Networks-Data-Communications-Project
+First project for networks and data communications for the Spring 2025 semester.
 
 To run the server and client code in Visual Studio Code, follow these steps:
 
